@@ -1,0 +1,1 @@
+hello everyone in this repository i am going to domonstrate the usage of git and git hub how we can do actions in git 
